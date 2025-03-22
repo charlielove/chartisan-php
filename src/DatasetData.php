@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Chartisan\PHP;
+namespace Chartisan-PHP;
 
 /**
  * Represents the dataset information.
