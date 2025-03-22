@@ -1,5 +1,5 @@
 {
-    "name": "chartisan/php",
+    "name": "chartisan-php",
     "description": "Chartisan's PHP backend",
     "license": "MIT",
     "type": "library",
